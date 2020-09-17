@@ -1,0 +1,220 @@
+* {
+    font-family: "Rubik", sans-serif;
+    outline: none;
+}
+body {
+    background-color: white;
+    color: black;
+    margin: 0px;
+    user-select: none;
+}
+
+#main-topbar {
+    height: 102px;
+    box-sizing: border-box;
+    background-color: white;
+    display: flex;
+    position: relative;
+    border-bottom: 1px dashed #c1c1c1;
+    justify-content: center;
+    align-items: center;
+}
+#main-body {
+    height: calc(100vh - 102px);
+    width: 100%;
+    position: relative;
+}
+#main-title-wrap {
+    display: flex;
+    position: relative;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(18px);
+    transition: transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+#main-title-wrap > p {
+    margin: 0px;
+}
+#main-title-wrap > p#main-title-1 {
+    font-weight: lighter;
+    letter-spacing: -2px;
+    line-height: 42px;
+    position: relative;
+    font-size: 38px;
+    z-index: 3;
+    vertical-align: text-bottom;
+    color: #444;
+    cursor: pointer;
+}
+#main-title-wrap > p#main-title-2 {
+    font-weight: normal;
+    line-height: 42px;
+    letter-spacing: -2px;
+    position: relative;
+    font-size: 42px;
+    margin-left: -2px;
+    z-index: 2;
+    cursor: pointer;
+}
+#main-title-wrap > p#main-title-3 {
+    font-weight: normal;
+    letter-spacing: -2px;
+    line-height: 42px;
+    position: relative;
+    font-size: 42px;
+    margin-left: -5px;
+    background-color: white;
+    z-index: 1;
+    cursor: pointer;
+}
+#main-title-wrap > p#main-title-4 {
+    font-weight: normal;
+    letter-spacing: -2px;
+    line-height: 42px;
+    padding-top: 7px;
+    position: relative;
+    vertical-align: text-bottom;
+    font-size: 32px;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateX(-36px);
+    transition: opacity 0.4s, transform 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+#main-title-copy {
+    position: absolute;
+    bottom: -8px;
+    padding: 0px 8px;
+    opacity: 0;
+    color: #888;
+    transition: opacity 1s cubic-bezier(0.7, 0, 0.84, 0);
+    background-color: white;
+    margin: 0px;
+}
+
+.election-info-wrap {
+    /*box-shadow: 0px 0px 24px -14px #666;*/
+    transform-origin: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    backface-visibility: hidden;
+    transform: rotate3d(0, 1, 0, 0deg);
+    transition: transform 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+#election-info-title {
+    font-size: 24px;
+    color: #666;
+}
+#election-info-time-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.election-info-time-number-wrap {
+    display: flex;
+}
+.election-info-time-number {
+    font-size: 104px;
+    font-weight: bold;
+    text-align: center;
+    width: 68px;
+    color: #444;
+    margin: 0px;
+    transition: transform 0.70s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.election-info-time-text {
+    font-size: 42px;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0px 24px 16px 12px;
+}
+.election-info-time-number-wheel {
+    height: 123px;
+    overflow: hidden;
+}
+#election-info-type {
+    font-size: 30px;
+    font-weight: normal;
+    color: #444;
+    text-align: center;
+}
+#election-info-details {
+    font-size: 22px;
+    text-align: center;
+}
+
+#additional-wrap {
+    position: absolute;
+    bottom: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+}
+#more-elections, #next-elections {
+    background-color: #f1f1f1;
+    font-size: 22px;
+    border: none;
+    height: 58px;
+    display: block;
+    margin: 0px auto;
+    padding: 0px 64px;
+    border-radius: 36px;
+    color: #333;
+    transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1), box-shadow 0.7s cubic-bezier(0.19, 1, 0.22, 1);
+    font-weight: light;
+    cursor: pointer;
+}
+#more-elections:hover, #next-elections:hover {
+    transform: scale(1.05) translateY(2px);
+    box-shadow: 0px -2px 28px -20px #444;
+}
+#more-elections:active, #next-elections:hover {
+    transform: scale(1.06) translateY(2.5px);
+    box-shadow: 0px -2.5px 28px -20px #444;
+}
+
+#region-list {
+    display: flex;
+    max-width: 400px;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 48px;
+}
+#region-list > p {
+    margin: 0px;
+}
+#region-list > button {
+    background-color: white;
+    border: none;
+    line-height: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    padding: 0px 12px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+#region-list > button > span {
+    text-decoration: underline;
+}
+
+.future-elections-wrap {
+    backface-visibility: hidden;
+    transition: transform 1s cubic-bezier(0.19, 1, 0.22, 1);
+    transform: rotate3d(0, 1, 0, 180deg);
+    transform-origin: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
