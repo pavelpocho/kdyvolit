@@ -1,3 +1,34 @@
+//Sorry pokud jsem to prehazel tady
+
+function flipNumber(newNumber, idSection) {
+    let lmo = document.getElementById(idSection + "-old");
+    let lmc = document.getElementById(idSection + "-current");
+    if (newNumber == lmo.innerHTML) {
+        return;
+    }
+    lmc.innerHTML = newNumber;
+    lmo.style.transform = "translateY(-123px)";
+    lmc.style.transform = "translateY(-123px)";
+    setTimeout(() => {
+        lmo.style.transition = "none";
+        lmc.style.transition = "none";
+        lmo.innerHTML = lmc.innerHTML;
+        setTimeout(() => {
+            lmo.style.transform = "translateY(0px)";
+            lmc.style.transform = "translateY(0px)";
+            setTimeout(() => {
+                lmo.style.transition = "transform 0.75s cubic-bezier(0.19, 1, 0.22, 1)";
+                lmc.style.transition = "transform 0.75s cubic-bezier(0.19, 1, 0.22, 1)";
+            }, 50);
+        }, 50);
+    }, 700);
+}
+
+function displayNumber(number, idSection) {
+    let lmo = document.getElementById(idSection + "-old");
+    lmo.innerHTML = number;
+}
+
 function displayUpcomingElectionData(election) {
     var titleDiv = document.getElementById("election-info-title");
     var typeDiv = document.getElementById("election-info-type");
@@ -68,4 +99,8 @@ function refreshRemainingTimeDisplay(date) {
     flipNumber(Math.floor(hours % 10), "little-hour");
     flipNumber(Math.floor(minutes / 10), "big-minute");
     flipNumber(Math.floor(minutes % 10), "little-minute");
+}
+
+function isMoreThanNow(date) {
+    return new Date(date).getTime() > new Date().getTime()
 }

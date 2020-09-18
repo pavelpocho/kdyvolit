@@ -1,32 +1,3 @@
-function flipNumber(newNumber, idSection) {
-    let lmo = document.getElementById(idSection + "-old");
-    let lmc = document.getElementById(idSection + "-current");
-    if (newNumber == lmo.innerHTML) {
-        return;
-    }
-    lmc.innerHTML = newNumber;
-    lmo.style.transform = "translateY(-123px)";
-    lmc.style.transform = "translateY(-123px)";
-    setTimeout(() => {
-        lmo.style.transition = "none";
-        lmc.style.transition = "none";
-        lmo.innerHTML = lmc.innerHTML;
-        setTimeout(() => {
-            lmo.style.transform = "translateY(0px)";
-            lmc.style.transform = "translateY(0px)";
-            setTimeout(() => {
-                lmo.style.transition = "transform 0.75s cubic-bezier(0.19, 1, 0.22, 1)";
-                lmc.style.transition = "transform 0.75s cubic-bezier(0.19, 1, 0.22, 1)";
-            }, 50);
-        }, 50);
-    }, 700);
-}
-
-function displayNumber(number, idSection) {
-    let lmo = document.getElementById(idSection + "-old");
-    lmo.innerHTML = number;
-}
-
 function copyMainTitle() {
     let input = document.getElementById("main-title-copier");
     input.select();
@@ -68,10 +39,6 @@ function showNextElections() {
     }, 1000);
 }
 
-function isMoreThanNow(date) {
-    return new Date(date).getTime() > new Date().getTime()
-}
-
 function getUpcomingElection(elections) {
     var upcomingElection = null;
     for (var i = 0; i < elections.length; i++) {
@@ -82,19 +49,6 @@ function getUpcomingElection(elections) {
     }
     return upcomingElection;
 }
-
-// function openAllRegions() {
-//     // document.getElementById("dialog-wrap").style.display = "block";
-//     // document.getElementById("region-dialog").style.display = "block";
-//     // document.getElementById("dialog-wrap").style.opacity = "1";
-// }
-
-// function closeAllRegions() {
-//     // document.getElementById("dialog-wrap").style.display = "none";
-//     // document.getElementById("region-dialog").style.display = "none";
-//     // document.getElementById("dialog-wrap").style.opacity = "0";
-//     document.querySelector('#region-list-text').innerHTML = 
-// }
 
 const openAllRegions = () => {
     let regions = document.getElementById("region-list-text").getAttribute('data-regions')
@@ -110,8 +64,6 @@ const closeAllRegions = () => {
     document.getElementById("region-expand-button").onclick = openAllRegions;
     document.getElementById("region-expand-button").innerHTML = 'Zobrazit všechny obvody';
 }
-
-
 
 function start() {
     const elections = data;
