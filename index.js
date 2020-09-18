@@ -65,14 +65,33 @@ const closeAllRegions = () => {
     document.getElementById("region-expand-button").innerHTML = 'Zobrazit všechny obvody';
 }
 
+const submitObec = () => {
+    let obec = document.getElementById('myInput').value;
+    let region = listOfTownsAndRegions.find(item => item.obec == obec);
+    let p = document.getElementById('obec-result');
+    console.log(region)
+    if (region == undefined) {
+        p.innerHTML = `Pyčo co tam zkušiš zadat taku diru v řiti.`;
+        p.style.color = 'var(--warning-red)'
+    } else {
+        p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}.`;
+        p.style.color = 'var(--title-off-black)';
+
+    }
+}
+
+let listOfTownsAndRegions;
+
 function start() {
     const elections = data;
     const upcomingElection = getUpcomingElection(elections);
-    // const obvodySenat = obvodySenat
+    listOfTownsAndRegions = JSON.parse(obvodySenat);
+    console.log(listOfTownsAndRegions[0])
     displayUpcomingElectionData(upcomingElection);
+    autocomplete(document.getElementById('myInput'), listOfTownsAndRegions.map(obj => obj.obec));
 }
 
-window.onload = function() {
+window.onload = function () {
     // console.log("onLoad")
     start();
     setupStyleAnimations();
