@@ -1,7 +1,16 @@
+:root {
+    --off-white: #c1c1c1;
+    --title-off-black: #444;
+    --bg-light-gray: #f1f1f1;
+    --title-green: #256E5D;
+}
+
 * {
     font-family: "Rubik", sans-serif;
     outline: none;
 }
+
+
 body {
     background-color: white;
     color: black;
@@ -36,7 +45,7 @@ body {
     background-color: white;
     display: flex;
     position: relative;
-    border-bottom: 1px dashed #c1c1c1;
+    border-bottom: 1px dashed var(--off-white);
     justify-content: center;
     padding: 0px 24px;
     align-items: center;
@@ -76,7 +85,7 @@ body {
     font-size: 38px;
     z-index: 3;
     vertical-align: text-bottom;
-    color: #444;
+    color: var(--title-off-black);
     cursor: pointer;
 }
 #main-title-wrap > p#main-title-2 {
@@ -87,7 +96,7 @@ body {
     font-size: 42px;
     margin-left: -2px;
     z-index: 2;
-    color: #256E5D;
+    color: var(--title-green);
     cursor: pointer;
 }
 #main-title-wrap > p#main-title-3 {
@@ -99,7 +108,7 @@ body {
     margin-left: -5px;
     background-color: white;
     z-index: 1;
-    color: #256E5D;
+    color: var(--title-green);
     cursor: pointer;
 }
 #main-title-wrap > p#main-title-4 {
@@ -141,7 +150,7 @@ body {
 }
 #election-info-inner {
     /* border-radius: 36px; */
-    background-color: #f1f1f1;
+    background-color: var(--bg-light-gray);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -150,7 +159,7 @@ body {
 }
 #election-info-title {
     font-size: 24px;
-    color: #666;
+    color: var(--title-off-black);
 }
 #election-info-time-wrap {
     display: flex;
@@ -165,7 +174,7 @@ body {
     font-weight: bold;
     text-align: center;
     width: 68px;
-    color: #256E5D;
+    color: var(--title-green);
     margin: 0px;
     transition: transform 0.70s cubic-bezier(0.19, 1, 0.22, 1);
 }
@@ -182,7 +191,7 @@ body {
 #election-info-type {
     font-size: 30px;
     font-weight: normal;
-    color: #444;
+    color: var(--title-off-black);
     text-align: center;
 }
 #election-info-details {
@@ -227,7 +236,7 @@ body {
     height: 100%;
     width: 110%;
     left: -5%;
-    background-color: #f1f1f1;
+    background-color: var(--bg-light-gray);
     transform-origin: top left;
     transform: scaleX(0);
     transition: transform 0.7s cubic-bezier(0.19, 1, 0.22, 1);
@@ -242,7 +251,7 @@ body {
 }*/
 #more-elections:active, #next-elections:active {
     transform: scale(1.03) translateY(-1px);
-    box-shadow: 0px 1px 18px -12px #444;
+    box-shadow: 0px 1px 18px -12px var(--title-off-black);;
 }
 
 #region-list {
@@ -289,7 +298,7 @@ body {
     width: 100vw;
     position: fixed;
     z-index: 2;
-    background-color: #f1f1f1bb;
+    background-color: var(--bg-light-gray)bb;
     display: none;
     opacity: 0;
 }
@@ -307,7 +316,7 @@ body {
     left: 50%;
     background-color: white;
     border-radius: 24px;
-    box-shadow: 0px 6px 20px -16px #444;
+    box-shadow: 0px 6px 20px -16px var(--title-off-black);
     transform: translate(-50%, -45%);
 }
 .dialog-topbar {
