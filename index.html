@@ -4,68 +4,86 @@
         <title>KdyVolit</title>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="style.css" />
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Anaheim&family=Asap:wght@700&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Material+Icons&family=Anaheim&family=Asap:wght@700&family=Rubik:wght@300;400;600&family=Lora:wght@500;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="ripple/index.css" />
         <script src="ripple/index.js"></script>
     </head>
     <body>
         <div id="main">
-            <div id="main-topbar">
-                <div id="main-title-wrap" onclick="copyMainTitle()">
-                    <p id="main-title-1">Kdy</p>
-                    <p id="main-title-2">V</p>
-                    <p id="main-title-3">olit</p>
-                    <p id="main-title-4">.cz</p>
+            <div id="dialog-wrap">
+                <div class="dialog" id="region-dialog">
+                    <div class="dialog-topbar">
+                        <p>Seznam volebních obvodů</p>
+                        <button onclick="closeAllRegions()"><i class="material-icons">clear</i></button>
+                    </div>
                 </div>
-                <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier" style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none"/>
-                <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
+            </div>
+            <div id="main-topbar">
+                <div id="main-topbar-inner">
+                    <div id="main-title-wrap" onclick="copyMainTitle()">
+                        <p id="main-title-1">Kdy</p>
+                        <p id="main-title-2">V</p>
+                        <p id="main-title-3">olit</p>
+                        <p id="main-title-4">.cz</p>
+                    </div>
+                    <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier" style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none"/>
+                    <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
+                    <div id="additional-wrap">
+                        <button id="more-elections" onclick="showFutureElections()">
+                            <div class="rolling-background"></div>
+                            <div id="me-inner">Zobrazit budoucí volby<i class="material-icons">chevron_right</i></div>
+                        </button>
+                    </div>
+                </div>
             </div>
             <div id="main-body">
                 <div class="election-info-wrap">
-                    <p id="election-info-title">Volební místnosti se otevírají za</p>
-                    <div id="election-info-time-wrap">
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-day-old">1</p>
-                                <p class="election-info-time-number" id="big-day-current">0</p>    
-                            </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-day-old">6</p>
-                                <p class="election-info-time-number" id="little-day-current">5</p>    
-                            </div>
-                        </div>
-                        <p class="election-info-time-text">dní</p>
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-hour-old">2</p>
-                                <p class="election-info-time-number" id="big-hour-current">1</p>
-                            </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-hour-old">2</p>
-                                <p class="election-info-time-number" id="little-hour-current">1</p>    
-                            </div>
-                        </div>
-                        <p class="election-info-time-text">hodin</p>
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-minute-old">9</p>
-                                <p class="election-info-time-number" id="big-minute-current">9</p>
-                            </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-minute-old">9</p>
-                                <p class="election-info-time-number" id="little-minute-current">9</p>    
-                            </div>
-                        </div>
-                        <p class="election-info-time-text">minut</p>
+                    <div id="quote-wrap">
+                        <p id="quote">&bdquo;V demokracii je to složité. Je třeba, aby se v ní angažovali všichni.&ldquo;</p>
+                        <p id="quote-author"> &mdash; Václav Havel</p>
                     </div>
-                    <p id="election-info-type">pro <b>senátní volby</b> v obvodech:</p>
-                    <div id="region-list">
-                        <p>Česká Lípa, Děčín, Cheb, Louny, +19 dalších</p>
-                        <button><span>Zobrazit všechny obvody</span></button>
-                    </div>
-                    <div id="additional-wrap">
-                        <button id="more-elections" onclick="showFutureElections()">Zobrazit budoucí volby</button>
+                    <div id="election-info-inner">
+                        <p id="election-info-title">Volební místnosti se otevírají za</p>
+                        <div id="election-info-time-wrap">
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-day-old">0</p>
+                                    <p class="election-info-time-number" id="big-day-current">0</p>    
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-day-old">0</p>
+                                    <p class="election-info-time-number" id="little-day-current">0</p>    
+                                </div>
+                            </div>
+                            <p class="election-info-time-text">dní</p>
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-hour-old">0</p>
+                                    <p class="election-info-time-number" id="big-hour-current">0</p>
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-hour-old">0</p>
+                                    <p class="election-info-time-number" id="little-hour-current">0</p>    
+                                </div>
+                            </div>
+                            <p class="election-info-time-text">hodin</p>
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-minute-old">0</p>
+                                    <p class="election-info-time-number" id="big-minute-current">0</p>
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-minute-old">0</p>
+                                    <p class="election-info-time-number" id="little-minute-current">0</p>    
+                                </div>
+                            </div>
+                            <p class="election-info-time-text">minut</p>
+                        </div>
+                        <p id="election-info-type">pro <b>---</b></p>
+                        <div id="region-list">
+                            <p id="region-list-text"></p>
+                            <button id="region-expand-button" onclick="openAllRegions()"><span>Zobrazit všechny obvody</span></button>
+                        </div>
                     </div>
                 </div>
                 <div class="future-elections-wrap">
@@ -75,12 +93,10 @@
                     <p>Future election</p>
                     <p>Future election</p>
                     <p>Future election</p>
-                    <div id="additional-wrap">
-                        <button id="next-elections" onclick="showNextElections()">Zobrazit nadcházející volby</button>
-                    </div>
                 </div>
             </div>
         </div>
+        <script src="elections.js"></script>
         <script src="index.js"></script>
     </body>
 </html>

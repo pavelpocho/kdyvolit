@@ -5,11 +5,12 @@ button, a {
 .ripple {
 	position: absolute;
 	border-radius: 100% !important;
-	background-color: #a1a1a1 !important;
+	background-color: #256E5D !important;
 	opacity: 0;
 	transition: transform 1.1s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.25s;
     height: 40px;
-    width: 40px;
+	width: 40px;
+	z-index: 1;
 }
 .ripple.dark {
 	background-color: #5E5E5E !important;
