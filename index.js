@@ -1,32 +1,3 @@
-function setupStyleAnimations() {
-    setupTitleAnimation();
-    setupMoreButtonAnimation();
-}
-
-function setupMoreButtonAnimation() {
-    document.getElementById("more-elections").onmouseover = () => {
-        document.getElementsByClassName("rolling-background")[0].style.transform = "scaleX(1)";
-    }
-    document.getElementById("more-elections").onmouseout = () => {
-        document.getElementsByClassName("rolling-background")[0].style.transform = "scaleX(0)";
-    }
-}
-
-function setupTitleAnimation() {
-    document.getElementById("main-title-wrap").onmouseover = () => {
-        document.getElementById("main-title-4").style.opacity = "1";
-        document.getElementById("main-title-4").style.transform = "translateX(0px)";
-        document.getElementById("main-title-wrap").style.transform = "translateX(0px)";
-        document.getElementById("main-title-copy").style.opacity = "1";
-    }
-    document.getElementById("main-title-wrap").onmouseout = () => {
-        document.getElementById("main-title-4").style.opacity = "0";
-        document.getElementById("main-title-4").style.transform = "translateX(-40px)";
-        document.getElementById("main-title-wrap").style.transform = "translateX(18px)";
-        document.getElementById("main-title-copy").style.opacity = "0";
-    }
-}
-
 function flipNumber(newNumber, idSection) {
     let lmo = document.getElementById(idSection + "-old");
     let lmc = document.getElementById(idSection + "-current");
@@ -112,16 +83,32 @@ function getUpcomingElection(elections) {
     return upcomingElection;
 }
 
-function openAllRegions() {
-    document.getElementById("dialog-wrap").style.display = "block";
-    document.getElementById("region-dialog").style.display = "block";
-    document.getElementById("dialog-wrap").style.opacity = "1";
+// function openAllRegions() {
+//     // document.getElementById("dialog-wrap").style.display = "block";
+//     // document.getElementById("region-dialog").style.display = "block";
+//     // document.getElementById("dialog-wrap").style.opacity = "1";
+// }
+
+// function closeAllRegions() {
+//     // document.getElementById("dialog-wrap").style.display = "none";
+//     // document.getElementById("region-dialog").style.display = "none";
+//     // document.getElementById("dialog-wrap").style.opacity = "0";
+//     document.querySelector('#region-list-text').innerHTML = 
+// }
+
+const openAllRegions = () => {
+    let regions = document.getElementById("region-list-text").getAttribute('data-regions')
+    document.getElementById("region-list-text").innerHTML = regions + '.';
+    document.getElementById("region-expand-button").onclick = closeAllRegions;
+    document.getElementById("region-expand-button").innerHTML = 'Zobrazit méně obvodů';
 }
 
-function closeAllRegions() {
-    document.getElementById("dialog-wrap").style.display = "none";
-    document.getElementById("region-dialog").style.display = "none";
-    document.getElementById("dialog-wrap").style.opacity = "0";
+const closeAllRegions = () => {
+    console.log('closing regions')
+    let regions = document.getElementById("region-list-text").getAttribute('data-regions').split(", ");
+    document.getElementById("region-list-text").innerHTML = `${regions.slice(0, 3).join(", ")}, + ${(regions.length - 3)}  dalších`;
+    document.getElementById("region-expand-button").onclick = openAllRegions;
+    document.getElementById("region-expand-button").innerHTML = 'Zobrazit všechny obvody';
 }
 
 function displayUpcomingElectionData(election) {
@@ -153,7 +140,10 @@ function displayUpcomingElectionData(election) {
     if (election.type == "se") {
         typeDiv.innerHTML += " v obvodech: "
         var placeDiv = document.getElementById("region-list-text");
-        placeDiv.innerHTML = election.regions.slice(0, 3).join(", ") + ", +" + (election.regions.length - 3).toString() + " dalších";
+        placeDiv.setAttribute('data-regions', election.regions.join(', '));
+        closeAllRegions()
+        // placeDiv.innerHTML = `${election.regions.slice(0, 3).join(", ")}, + ${(election.regions.length - 3)}  dalších`;
+        // document.getElementById('region-expand-button').onClick = openAllRegions(election.regions)
     }
     else {
         document.getElementById("region-expand-button").style.display = "none";
@@ -196,14 +186,18 @@ function refreshRemainingTimeDisplay(date) {
 function start() {
     const elections = data;
     const upcomingElection = getUpcomingElection(elections);
+    // const obvodySenat = obvodySenat
     displayUpcomingElectionData(upcomingElection);
-    setTimeout(() => {
-        document.getElementById("main").style.opacity = "1";  
-    }, 50);
 }
 
-start();
-setupStyleAnimations();
+window.onload = function() {
+    // console.log("onLoad")
+    start();
+    setupStyleAnimations();
+    document.getElementById("main").style.opacity = "1";
+    RippleManager.setUp();
+}
+
 
 // var i = 8;
 // var j = 8;
@@ -217,4 +211,3 @@ setupStyleAnimations();
 //     i--;
 // }, 1000);
 
-RippleManager.setUp();
