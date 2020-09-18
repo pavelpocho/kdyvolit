@@ -94,11 +94,18 @@
                 </div>
             </section>
             <section class="obec-input-wrap">
-                <div class="autocomplete obec-input">
+                <div class="autocomplete obec-input text-input">
                     <input id="myInput" type="text" name="obec" placeholder="Název obce">
                 </div>
-                <button onclick="submitObec()" class="obec-input-button">Vyhledat</button>
-                <p id="obec-result">a</p>
+                <button onclick="submitObec()" class="obec-input-button input-button">Vyhledat</button>
+                <p id="obec-result"></p>
+            </section>
+            <section class="email-gather-wrap">
+                <div class="email-input text-input">
+                    <input id="email-input" type="text" name="email" placeholder="email@domain.com">
+                </div>
+                <button onclick="submitEmail()" class="email-input-button input-button">Subscribe</button>
+                <p id="email-result"></p>
             </section>
             <footer>
                 <p>© 2020 by LoskotCorp - All Rights Reserved</p>
@@ -119,6 +126,25 @@
     <script src="autocomplete.js"></script>
     <script src="timeDisplay.js"></script>
     <script src="obvodySenat.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/7.20.-/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.-/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.20.-/firebase-functions.js"></script>
+    <script>
+        var firebaseConfig = {
+            apiKey: "AIzaSyDTzC0-bl1FhPHDnxqtG9cNbLIRxnRrIlo",
+            authDomain: "kdyvolit.firebaseapp.com",
+            databaseURL: "https://kdyvolit.firebaseio.com",
+            projectId: "kdyvolit",
+            storageBucket: "kdyvolit.appspot.com",
+            messagingSenderId: "733488757530",
+            appId: "1:733488757530:web:9ff5b9d200b9b6f9a18aa3",
+            measurementId: "G-6MV15Z6JC8"
+        };
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+
     <script src="index.js"></script>
 </body>
 

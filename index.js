@@ -58,32 +58,45 @@ const openAllRegions = () => {
 }
 
 const closeAllRegions = () => {
-    console.log('closing regions')
     let regions = document.getElementById("region-list-text").getAttribute('data-regions').split(", ");
     document.getElementById("region-list-text").innerHTML = `${regions.slice(0, 3).join(", ")}, + ${(regions.length - 3)}  dalších`;
     document.getElementById("region-expand-button").onclick = openAllRegions;
     document.getElementById("region-expand-button").innerHTML = 'Zobrazit všechny obvody';
 }
 
+const translateTypes = {
+    se: "Senátní volby",
+    sn: 'Volby do poslanecké sněmovny'
+}
+
 const submitObec = () => {
     let obec = document.getElementById('myInput').value;
     let region = listOfTownsAndRegions.find(item => item.obec == obec);
     let p = document.getElementById('obec-result');
+    let volby = elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se');
+    let string = volby.map(el => {
+        `<li>${translateTypes[el.type]} ${el.dates[0].from}</li>`
+    })
+    let bool = getUpcomingElection(elections).regions.includes(region)
     console.log(region)
     if (region == undefined) {
         p.innerHTML = `Pyčo co tam zkušiš zadat taku diru v řiti.`;
         p.style.color = 'var(--warning-red)'
     } else {
-        p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}.`;
+        p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool && 'ne'}týkají. ${string}`;
         p.style.color = 'var(--title-off-black)';
 
     }
 }
 
-let listOfTownsAndRegions;
+const getElectionsForRegion = (region) => {
+    elections.filter
+}
 
+let listOfTownsAndRegions;
+let elections;
 function start() {
-    const elections = data;
+    elections = data;
     const upcomingElection = getUpcomingElection(elections);
     listOfTownsAndRegions = JSON.parse(obvodySenat);
     console.log(listOfTownsAndRegions[0])
@@ -99,7 +112,17 @@ window.onload = function () {
     RippleManager.setUp();
 }
 
-
+const submitEmail = () => {
+    let email = document.getElementById('email-input').value;
+    let p = document.getElementById('email-result')
+    if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
+        p.style.color = 'var(--warning-red)'
+        p.innerHTML = "Tož more co mi to tam sereš za chujovitý mail!"
+        return
+    } else {
+        
+    }
+}
 // var i = 8;
 // var j = 8;
 // setInterval(() => {

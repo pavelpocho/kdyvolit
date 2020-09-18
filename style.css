@@ -344,7 +344,7 @@ footer > p {
 
 }
 
-.obec-input-button {
+.input-button {
     margin-bottom: 2em;
     font-size: 20px;
     padding: 0.5em 1em;
@@ -353,12 +353,12 @@ footer > p {
     border: none;   
 }
 
-.obec-input {
+.text-input {
     width: 30vw;
     margin: 2em;
 }
 
-.obec-input > input {
+.text-input > input {
     width: calc(100% - 20px);
     font-size: 20px;
     padding: 0.5em;
@@ -404,4 +404,10 @@ footer > p {
 .autocomplete-active {
   background-color: var(--title-green) !important;
   color: white;
+}
+
+.email-gather-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
