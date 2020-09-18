@@ -1,0 +1,8432 @@
+[
+    {
+        "obec": "Správní celek",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Abertamy",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Andělská Hora",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Bečov nad Teplou",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Bochov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Boží Dar",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Božičany",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Bražec",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Březová",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Černava",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Čichalov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Dalovice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Děpoltovice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Doupovské Hradiště",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Hájek",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Horní Blatná",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Hory",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Hroznětín",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Chodov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Chyše",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Jáchymov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Jenišov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Karlovy Vary",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Kolová",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Krásné Údolí",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Krásný Les",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Kyselka",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Merklín",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Mírová",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Nejdek",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Nová Role",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Nové Hamry",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Ostrov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Otovice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Pernink",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Pila",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Potůčky",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Pšov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Sadov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Smolné Pece",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Stanovice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Stráž nad Ohří",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Stružná",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Šemnice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Štědrá",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Teplička",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Útvina",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Valeč",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Velichov",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Verušičky",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Vojkovice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Vrbice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Vysoká Pec",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Žlutice",
+        "obvod": 1,
+        "obvodName": "Karlovy Vary"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha 18",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha 8",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha-Březiněves",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha-Čakovice",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha-Ďáblice",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Praha-Dolní Chabry",
+        "obvod": 23,
+        "obvodName": "Praha 8"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Aš",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Benešovice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Bezdružice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Bor",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Brod nad Tichou",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Broumov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Cebiv",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Ctiboř",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Částkov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Černošín",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Dlouhý Újezd",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Dolní Žandov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Drmoul",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Erpužice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Františkovy Lázně",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Halže",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Hazlov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Horní Kozolupy",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Hošťka",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Hranice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Cheb",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Chodová Planá",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Chodský Újezd",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Kladruby",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Kočov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Kokašice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Konstantinovy Lázně",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Kostelec",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Krásná",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Křižovatka",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Kšice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Lázně Kynžvart",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Lesná",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Lestkov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Libá",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Lipová",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Lom u Tachova",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Luby",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Milhostov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Milíkov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Milíře",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Nebanice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Nový Kostel",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Obora",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Odrava",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Okrouhlá",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Olbramov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Ošelín",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Planá",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Plesná",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Podhradí",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Pomezí nad Ohří",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Poustka",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Prostiboř",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Přimda",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Rozvadov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Skalná",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Skapce",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Stará Voda",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Staré Sedliště",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Staré Sedlo",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Stráž",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Stříbro",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Studánka",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Sulislav",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Svojšín",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Sytno",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Tachov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Tisová",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Trpísty",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Trstěnice",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Třebeň",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Třemešné",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Tři Sekery",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Tuřany",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Únehle",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Valy",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Velká Hleďsebe",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Velký Luh",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Vojtanov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Vranov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Zadní Chodov",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Záchlumí",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Zhoř",
+        "obvod": 3,
+        "obvodName": "Cheb"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Biřkov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Blovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Bolkov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Borovno",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Borovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Břežany",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Buková",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Červené Poříčí",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Čižice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Čížkov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Čmelíny",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Dnešice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Dobřany",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Dolce",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Dolní Lukavice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Drahkov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Hnačov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Honezovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Horažďovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Horní Lukavice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Horšice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Hradec",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Hradešice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Hradiště",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chanovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chlum",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chlumčany",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chlumy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chocenice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chotěšov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Chválenice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Jarov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Ježovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kasejovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kbel",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Klášter",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kotovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kovčín",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kozlovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kramolín",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Křenice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Kvášňovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Letiny",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Letkov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Lhůta",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Lisov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Líšina",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Losiná",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Louňová",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Lužany",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Malý Bor",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Maňovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Měčín",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Měcholupy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Merklín",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mezihoří",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mileč",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Milínov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Míšov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mladý Smolivec",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mlýnské Struhadlo",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mohelnice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Mokrouše",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Myslív",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nalžovské Hory",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nebílovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nehodiv",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nekvasovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nepomuk",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Netunice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Neurazy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nezbavětice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nezdice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nezdřev",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nezvěstice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nová Ves",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Nové Mitrovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Olšany",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Oplot",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Oselce",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Otěšice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Pačejov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Plánice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Polánka",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Prádlo",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Předenice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Přestavlky",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Přeštice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Příchovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Ptenín",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Radkovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Roupov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Řenče",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Seč",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Sedliště",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Skašov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Slatina",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Soběkury",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Spálené Poříčí",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Srby",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Starý Plzenec",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Stod",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Střelice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Střížovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Svéradice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Šťáhlavy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Štěnovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Štěnovický Borek",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Švihov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Tojice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Třebčice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Tužice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Tymákov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Týniště",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Újezd u Plánice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Únětice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Útušice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Velké Hydčice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Velký Bor",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Ves Touškov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Vlčí",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Vlčtejn",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Vrčeň",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Vřeskovice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Vstiš",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Zavlekov",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Zborovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Zdemyslice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Zemětice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Žákava",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Ždírec",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Žinkovy",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Životice",
+        "obvod": 7,
+        "obvodName": "Plzeň-město"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bačalky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bašnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Běchary",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Běrunice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bílsko u Hořic",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bobnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Boháňka",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Borek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Brada-Rybníček",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Březina",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bříšťany",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Budčeves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Budiměřice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bukvice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Butoves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Bystřice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Cerekvice nad Bystřicí",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Červená Třemešná",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Češov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Čilec",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Činěves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dětenice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dílce",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dlouhopolsko",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dobrá Voda u Hořic",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dobšice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dolní Lochov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dřevěnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dvory",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Dymokury",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Holín",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Holovousy",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Hořice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Hradčany",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Hrubý Jeseník",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Chleby",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Cholenice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Chomutice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Choťánky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Choteč",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Chotěšice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Chroustov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Chyjice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jeřice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jičín",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jičíněves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jíkev",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jinolice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jiřice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Jizbice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kacákova Lhota",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kamenné Zboží",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kbelnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kněžice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kněžičky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kněžnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kolaje",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Konecchlumí",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kopidlno",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kostelec",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kostomlátky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kostomlaty nad Labem",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Košík",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kouty",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kovač",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kozojedy",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Krchleby",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Křečkov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Křinec",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Kyje",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Lázně Bělohrad",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Libáň",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Libice nad Cidlinou",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Libošovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Libuň",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Lískovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Loučeň",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Lukavec u Hořic",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Lužany",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Lysá nad Labem",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Markvartice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Mcely",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Městec Králové",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Miletín",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Milovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Milovice u Hořic",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Mladějov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Mlázovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Nemyčeves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Netřebice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Nevratice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Nová Paka",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Nový Dvůr",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Nymburk",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Odřepsy",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Ohařice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Ohaveč",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Okřínek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Opočnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Opolany",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Oseček",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Osek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Oskořínek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Ostroměř",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Ostružno",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Pátek",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Pecka",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Petrovičky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Písty",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Podhorní Újezd a Vojice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Podhradí",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Podmoky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Podůlší",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Radim",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Rašín",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Rohoznice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Rokytňany",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Rožďalovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Samšina",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sány",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sběř",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sedliště",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sekeřice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Seletice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Senice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Slatiny",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Slavhostice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sloveč",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sobčice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Soběraz",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sobotka",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Stará Lysá",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Stará Paka",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Staré Hrady",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Staré Místo",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Staré Smrkovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Straky",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Stratov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Střevač",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Sukorady",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Svatojanský Újezd",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Šárovcova Lhota",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Tetín",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Třebnouševes",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Třtěnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Tuř",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Úbislavice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Údrnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Úhlejov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Újezd pod Troskami",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Úlibice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Úmyslovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Valdice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Velenice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Veliš",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vestec",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vidochov",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vitiněves",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vlkov pod Oškobrhem",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Volanice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vrbice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vrbice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vršce",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vřesník",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Všechlapy",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Vysoké Veselí",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Záhornice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Zámostí-Blata",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Zbožíčko",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Zelenecká Lhota",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Železnice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Žeretice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Židovice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Žitovlice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Žlunice",
+        "obvod": 37,
+        "obvodName": "Jičín"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Barchovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Bečváry",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Bělušice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Břežany I",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Břežany II",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Bříství",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Býchory",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Cerhenice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Církvice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Čelákovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Černíky",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Červené Pečky",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Český Brod",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Dobřichov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Dolní Chvatliny",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Dománovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Doubravčice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Drahobudice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Grunta",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Horní Kruty",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Hořany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Hořátev",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Hradešín",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Hradištko",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Choťovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Chotutice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Chrást",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Chrášťany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Jestřabí Lhota",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kbel",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Klášterní Skalice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Klučov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kolín",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Konárovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kořenice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kostelní Lhota",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kounice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kouřim",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kovanice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Krakovany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Krupá",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Krychnov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Křečhoř",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Kšely",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Libenice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Libodřice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Lipec",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Lošany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Malotice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Masojedy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Milčice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Mochov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Mrzky",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Nebovidy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Nehvizdy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Němčice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Nová Ves I",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ohaře",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ostrá",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ovčáry",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Pašinka",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Pečky",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Písková Lhota",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Plaňany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Pňov-Předhradí",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Poděbrady",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Polepy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Polní Chrčice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Polní Voděrady",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Poříčany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Přehvozdí",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Přerov nad Labem",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Přistoupim",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Přišimasy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Radim",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Radovesnice I",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Radovesnice II",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ratboř",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ratenice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Rostoklaty",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Sadská",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Semice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Skvrňov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Sokoleč",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Starý Kolín",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Starý Vestec",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Svémyslice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Svojšice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Tatce",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Tismice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Toušice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Třebestovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Třebovle",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Tři Dvory",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Tuchoraz",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Tuklaty",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Týnec nad Labem",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Uhlířská Lhota",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Velenka",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Veletov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Velim",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Velký Osek",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Veltruby",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vitice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Volárna",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vrátkov",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vrbčany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vrbová Lhota",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vykáň",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Vyšehořovice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Zalešany",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Zápy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Zásmuky",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Zeleneč",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Zvěřínek",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Žabonosy",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Ždánice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Žehuň",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Žiželice",
+        "obvod": 42,
+        "obvodName": "Kolín"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Bavoryně",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Beroun",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Běštín",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Březová-Oleško",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Bubovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Bykoš",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Černolice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Černošice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Červený Újezd",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Číčovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Dobrovíz",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Dobříč",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Dobřichovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Dolní Břežany",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Drahelčice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Felbabka",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hlásná Třebaň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hořovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hostivice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hostomice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hředle",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hudlice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Hýskov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chlustina",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chodouň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Choteč",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chrášťany",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chrustenice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chyňava",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chýně",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Chýnice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Jeneč",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Jíloviště",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Jinočany",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Karlík",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Karlštejn",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Klínec",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Kněževes",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Koněprusy",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Korno",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Kosoř",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Kotopeky",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Králův Dvůr",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Lážovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Lety",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Lhotka",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Libomyšl",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Liteň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Loděnice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Lochovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Lužce",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Málkov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Měchenice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Měňany",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Mezouň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Mořina",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Mořinka",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Nenačovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Nesvačily",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Neumětely",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Nižbor",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Nový Jáchymov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Nučice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Ohrobec",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Okrouhlo",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Ořech",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Osov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Otmíče",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Otročiněves",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Podbrdy",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Podluhy",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Praskolesy",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Ptice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Roblín",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Rpety",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Rudná",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Řevnice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Skřipel",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Skuhrov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Srbsko",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Stašov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Středokluky",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Suchomasty",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Svatá",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Svatý Jan pod Skalou",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Svinaře",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Tachlovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Tetín",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Tlustice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Tmaň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Točník",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Trnová",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Trubín",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Trubská",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Třebotov",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Tuchoměřice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Úhonice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Velký Chlumec",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vestec",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vinařice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vižina",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vonoklasy",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vrané nad Vltavou",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vráž",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Všenory",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Všeradice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Vysoký Újezd",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Zadní Třebaň",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Zbuzany",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Zdice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Zlatníky-Hodkovice",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Zvole",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Žebrák",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Železná",
+        "obvod": 16,
+        "obvodName": "Beroun"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha 14",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha 19",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha 20",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha 21",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha 9",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Běchovice",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Dolní Počernice",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Klánovice",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Koloděje",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Satalice",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Praha-Vinoř",
+        "obvod": 24,
+        "obvodName": "Praha 9"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Banín",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bělá nad Svitavou",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bělá u Jevíčka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Benátky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bezděčí u Trnávky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Biskupice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bohuňov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bohuňovice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bor u Skutče",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Borová",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Borušov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Brněnec",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Březina",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Březinky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Březiny",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Březová nad Svitavou",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Budislav",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Bystré",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Cerekvice nad Loučnou",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Čistá",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Desná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Dětřichov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Dětřichov u Moravské Třebové",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Dlouhá Loučka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Dolní Újezd",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Gruna",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Hartinkov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Hartmanice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Hluboká",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Horky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Horní Újezd",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Hradec nad Svitavou",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Hroubovice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chmelík",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chornice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chotěnov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chotovice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chrast",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chrastavec",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Chroustovice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Janov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Janůvky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Jaroměřice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Jarošov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Javorník",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Jedlová",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Jenišovice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Jevíčko",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Kamenec u Poličky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Kamenná Horka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Karle",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Koclířov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Korouhev",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Koruna",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Krouna",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Křenov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Kukle",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Kunčina",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Květná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Lavičné",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Leština",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Linhartice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Litomyšl",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Lozice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Lubná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Luže",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Makov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Malíkov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Městečko Trnávka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Mikuleč",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Mladějov na Moravě",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Morašice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Moravská Třebová",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Nedvězí",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Nová Sídla",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Nová Ves u Jarošova",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Nové Hrady",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Oldřiš",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Opatov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Opatovec",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Osík",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Ostrov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Otradov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Perálec",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Pohledy",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Polička",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Pomezí",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Poříčí u Litomyšle",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Proseč",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Předhradí",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Příluka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Pustá Kamenice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Pustá Rybná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Radiměř",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Radkov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rohozná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rosice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rozhraní",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rozstání",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rudná",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Rychnov na Moravě",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Řepníky",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Řídký",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Sádek",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Sebranice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Sedliště",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Sklené",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Skuteč",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Slatina",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Staré Město",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Stašov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Stradouň",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Strakov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Střemošice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Suchá Lhota",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Svitavy",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Svojanov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Svratouch",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Široký Důl",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Študlov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Telecí",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Trpín",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Trstěnice",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Tržek",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Třebařov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Újezdec",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Útěchov",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vendolí",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vidlatá Seč",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vinary",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Víska u Jevíčka",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vítějeves",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vranová Lhota",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vrážné",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Vysoká",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Zderaz",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Želivsko",
+        "obvod": 50,
+        "obvodName": "Svitavy"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Běleč",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Běloky",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Blevice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Brandýsek",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Braškov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Bratronice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Buštěhrad",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Cvrčovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Doksy",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Dolany",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Družec",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Dřetovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Holubice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Horní Bezděkov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Horoměřice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Hostouň",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Hřebeč",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Jemníky",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Kačice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Kamenné Žehrovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Kamenný Most",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Kladno",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Knovíz",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Koleč",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Kyšice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Lány",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Lhota",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Libčice nad Vltavou",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Libochovičky",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Libušín",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Lidice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Lichoceves",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Makotřasy",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Malé Kyšice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Malé Přítočno",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Neuměřice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Okoř",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Otvovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Pavlov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Pchery",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Pletený Újezd",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Podlešín",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Roztoky",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Slatina",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Statenice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Stehelčeves",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Stochov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Svárov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Svinařov",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Svrkyně",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Třebichovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Třebusice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Tuchlovice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Tursko",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Úholičky",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Únětice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Unhošť",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Velká Dobrá",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Velké Přílepy",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Velké Přítočno",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Vinařice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Zájezd",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Zákolany",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Zvoleněves",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Želenice",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Žilina",
+        "obvod": 30,
+        "obvodName": "Kladno"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Bechlín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Beřovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Bílichov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Bohušovice nad Ohří",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Brňany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Brozany nad Ohří",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Brzánky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Bříza",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Budyně nad Ohří",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Býčkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Ctiněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Černěves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Černiv",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Černouček",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Černuc",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Čížkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Děčany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Dlažkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Dobříň",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Doksany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Dolánky nad Ohří",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Drahobuz",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Dřínov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Dušníky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Evaň",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hlinná",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hobšovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Horní Beřkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Horní Řepčice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hořešovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hořešovičky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hospozín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hoštka",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Hrobce",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chodouny",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chodovlice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chotěšov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chotiněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chržín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Chudoslavice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Jarpice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Jenčice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kamýk",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Keblice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Klapý",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kleneč",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Klobuky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kmetiněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kostomlaty pod Řípem",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Krabčice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Královice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Křesín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Křešice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kutrovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kvílice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Kyškovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Levín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Lhotka nad Labem",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Liběšice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Libkovice pod Řípem",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Libochovany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Libochovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Libotenice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Libovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Líský",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Litoměřice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Lkáň",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Loucká",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Lovečkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Lovosice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Lukavec",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Malé Žernoseky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Malíč",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Martiněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Michalovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Miřejovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Mlékojedy",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Mnetěš",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Mšené-lázně",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Neprobylice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Nové Dvory",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Oleško",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Páleč",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Píšťany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Plchov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Ploskovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Podsedice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Polepy",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Poštovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Pozdeň",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Přestavlky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Račice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Račiněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Radovesice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Rochov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Roudnice nad Labem",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Sazená",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Sedlec",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Siřejovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Slaný",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Slatina",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Snědovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Staňkovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Stradonice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Straškov-Vodochody",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Studeněves",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Sulejovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Šlapanice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Štětí",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Terezín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Travčice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Trnovany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Třebenice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Třebívlice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Třebíz",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Třebušín",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Tuřany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Uhy",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Úpohlavy",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Úštěk",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vědomice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Velké Žernoseky",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Velvary",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vchynice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vlastislav",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vraný",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vražkov",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vrbice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vrbičany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vrbičany",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Vrutice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Záluží",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Zichovec",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Zlonice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Žabovřesky nad Ohří",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Žalhostice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Židovice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Žitenice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Žižice",
+        "obvod": 29,
+        "obvodName": "Litoměřice"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Bašť",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Borek",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Bořanovice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Brandýs nad Labem-Stará Boleslav",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Brázdim",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Čakovičky",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Čečelice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Dolany nad Vltavou",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Dřevčice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Dřínov",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Dřísy",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Hlavenec",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Hostín u Vojkovic",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Hovorčovice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Husinec",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Chlumín",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Chvatěruby",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Jenštejn",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Jeviněves",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Káraný",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Klecany",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Klíčany",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kly",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kojetice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Konětopy",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kostelec nad Labem",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kostelní Hlavno",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kozomín",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Kralupy nad Vltavou",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Křenek",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Lázně Toušeň",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Ledčice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Lhota",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Líbeznice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Libiš",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Liblice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Malý Újezd",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Máslovice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Mělník",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Měšice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Mratín",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Nedomice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Nelahozeves",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Neratovice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Nová Ves",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Nová Ves",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Nový Vestec",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Obříství",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Odolena Voda",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Olovnice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Ovčáry",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Panenské Břežany",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Podolanka",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Polerady",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Postřižín",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Předboj",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Přezletice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Radonice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Sedlec",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Sluhy",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Sudovo Hlavno",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Tišice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Tuhaň",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Újezdec",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Úžice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Veleň",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Veliká Ves",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Velký Borek",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Veltrusy",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Větrušice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Vodochody",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Vojkovice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Vraňany",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Všestudy",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Všetaty",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Zálezlice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Záryby",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Zdiby",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Zlončice",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Zlonín",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Zlosyň",
+        "obvod": 28,
+        "obvodName": "Mělník"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 58,
+        "obvodName": "Brno-město"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Albrechtice v Jizerských horách",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bedřichov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bělá",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Benecko",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Benešov u Semil",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bozkov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bradlecká Lhota",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bukovina u Čisté",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Bystrá nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Čistá u Horek",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Dalešice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Desná",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Držkov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Frýdštejn",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Háje nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Harrachov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Holenice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Horka u Staré Paky",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Horní Branná",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Chuchelna",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jablonec nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jablonec nad Nisou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Janov nad Nisou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jenišovice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jesenný",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jestřabí v Krkonoších",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jilemnice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jílové u Držkova",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Jiřetín pod Bukovou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Josefův Důl",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Koberovy",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Kořenov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Košťálov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Kruh",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Levínská Olešnice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Libštát",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Líšný",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Lomnice nad Popelkou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Loužnice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Lučany nad Nisou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Malá Skála",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Maršovice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Martinice v Krkonoších",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Mříčná",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Nová Ves nad Nisou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Nová Ves nad Popelkou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Paseky nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Pěnčín",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Peřimov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Plavy",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Poniklá",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Příkrý",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Pulečný",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Radčice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Rádlo",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Radostná pod Kozákovem",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Rokytnice nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Roprachtice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Rovensko pod Troskami",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Roztoky u Jilemnice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Roztoky u Semil",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Rychnov u Jablonce nad Nisou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Semily",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Skuhrov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Slaná",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Smržovka",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Stružinec",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Studenec",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Svojek",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Syřenov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Tanvald",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Tatobity",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Velké Hamry",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Veselá",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Víchová nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Vítkovice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Vlastiboř",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Vysoké nad Jizerou",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Záhoří",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Zásada",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Zlatá Olešnice",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Železný Brod",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Žernov",
+        "obvod": 35,
+        "obvodName": "Jablonec nad Nisou"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Bílina",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Bořislav",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Bystřany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Bžany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Dubí",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Duchcov",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Háj u Duchcova",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Hostomice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Hrob",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Hrobčice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Jeníkov",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Kladruby",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Kostomlaty pod Milešovkou",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Košťany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Krupka",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Lahošť",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Ledvice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Lukov",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Měrunice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Mikulov",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Modlany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Moldava",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Novosedlice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Ohníč",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Osek",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Proboštov",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Rtyně nad Bílinou",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Srbice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Světec",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Teplice",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Újezdeček",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Zabrušany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Žalany",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Žim",
+        "obvod": 32,
+        "obvodName": "Teplice"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 70,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Stará Ves nad Ondřejnicí",
+        "obvod": 70,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Šenov",
+        "obvod": 70,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Václavovice",
+        "obvod": 70,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Vratimov",
+        "obvod": 70,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Adamov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bačkov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bělá",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bernardov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bernartice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bílé Podolí",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bílkovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Blažejovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bludov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bohdaneč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bojiště",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Boňkov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Borek",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Borovnice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Brambory",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Bratčice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Církvice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ctiboř",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Čáslav",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Čechtice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Čejkovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Černíny",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Červené Janovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Čestín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Číhošť",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Děkanovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Dobrovítov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Dolní Kralovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Dolní Město",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Dolní Pohleď",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Drobovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Druhanov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Dunice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Golčův Jeníkov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Habry",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Herálec",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Heřmanice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hlízov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hněvkovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Horka I",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Horka II",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Horky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Horní Paseka",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Horušice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hostovlice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hraběšín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hradec",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hradiště",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Hulice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chabeřice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chlístovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chlum",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chmelná",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chotusice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chrtníč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Chřenovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Javorník",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Jedlá",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Jilem",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kácov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kamberk",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kámen",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kamenná Lhota",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Keblov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kladruby",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kluky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kobylnice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kondrac",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Košice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kouty",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kozlov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kožlí",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kraborovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Krásná Hora",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Krchleby",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Křesetice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Křivsoudov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kunemil",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kuňovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kutná Hora",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Květinov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Kynice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ledeč nad Sázavou",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ledečko",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Leškovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Leština u Světlé",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Libež",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Lípa",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Lipnice nad Sázavou",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Loket",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Louňovice pod Blaníkem",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Lučice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Malčín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Malešov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Michalovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Miřetice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Miskovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Mnichovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Močovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Načeradec",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nejepín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nepoměřice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nová Ves u Chotěboře",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nová Ves u Leštiny",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nová Ves u Světlé",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Nové Dvory",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Okrouhlice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Okřesaneč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Olešná",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Onomyšl",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Opatovice I",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ostrov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ostrov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Ovesná Lhota",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Paběnice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Pavlov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Pavlovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Pertoltice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Petrovice I",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Petrovice II",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Podmoky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Podveky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Pohleď",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Potěhy",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Pravonín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Prosíčka",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Příseka",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Psáře",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Radostín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Radošovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Rašovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Rataje",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Rataje nad Sázavou",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Rohozec",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Rybníček",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Řendějov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Řimovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Samopše",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Sázava",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Sázavka",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Sedletín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Semtěš",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Schořov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Skryje",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Skuhrov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Slavníč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Slavošov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Slověnice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Služátky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Snět",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Soběšín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Souňov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Soutice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Staňkovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Starkoč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Strojetice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Studený",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Sudějov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Suchdol",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Svatý Mikuláš",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Světlá nad Sázavou",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Šebestěnice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Šetějovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Štipoklasy",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Tehov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Tichonice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Tis",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Tomice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Trhový Štěpánov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Trpišovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Třebešice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Třebětín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Třebonín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Tupadly",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Uhelná Příbram",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Uhlířské Janovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Úmonín",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Úžice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vavřinec",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Veliš",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vepříkov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Veselý Žďár",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Věž",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vidice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vilémov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vilémovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vinaře",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vlačice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vlastějovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vlašim",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vlkaneč",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vlkanov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vodranty",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vracovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Vrdy",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Všechlapy",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Záboří nad Labem",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zbizuby",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zbraslavice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zbýšov",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zdislavice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zruč nad Sázavou",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Zvěstovice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Žáky",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Žehušice",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Žleby",
+        "obvod": 40,
+        "obvodName": "Kutná Hora"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Běleč nad Orlicí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Benátky",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Bezděkov nad Metují",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Blešno",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Bohuslavice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Borová",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Božanov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Broumov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Brzice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Bukovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Černčice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Černilov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Černožice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Červená Hora",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Červený Kostelec",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Česká Čermná",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Česká Metuje",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Česká Skalice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Divec",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Dolany",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Dolní Radechová",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Habřina",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hejtmánkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Heřmanice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Heřmánkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hněvčeves",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Holohlavy",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Horní Radechová",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hořenice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hořičky",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hořiněves",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Hronov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Chvalkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Jaroměř",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Jasenná",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Jeníkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Jestřebí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Kramolna",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Křinice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Lejšovka",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Lhota pod Hořičkami",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Libchyně",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Libníkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Librantice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Libřice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Litoboř",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Lochenice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Lužany",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Machov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Martínkovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Mezilečí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Mezilesí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Nahořany",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Náchod",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Nové Město nad Metují",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Nový Hrádek",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Nový Ples",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Otovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Police nad Metují",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Provodov-Šonov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Přibyslav",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Račice nad Trotinou",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Rasošky",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Rožnov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Rychnovek",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Říkov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Sendraž",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Sendražice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Skalice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Slatina nad Úpou",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Slavětín nad Metují",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Slavoňov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Smiřice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Smržov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Stárkov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Studnice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Suchý Důl",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Šestajovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Šonov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Třebechovice pod Orebem",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Velichovky",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Velká Jesenice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Velké Petrovice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Velké Poříčí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Velký Třebešov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vestec",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vlkov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vrchovnice",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vršovka",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Výrava",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vysoká Srbská",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Vysokov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Zábrodí",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Zaloňov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Žďár nad Metují",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Žďárky",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Žernov",
+        "obvod": 47,
+        "obvodName": "Náchod"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Čavisov",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Darkovice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Děhylov",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Dobroslavice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Dolní Lhota",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Hať",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Hlučín",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Horní Lhota",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Kozmice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Ludgeřovice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Markvartovice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Šilheřovice",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Velká Polom",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Vřesina",
+        "obvod": 72,
+        "obvodName": "Ostrava-město"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Branky",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Bystřička",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Dolní Bečva",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Francova Lhota",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Halenkov",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Horní Bečva",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Hovězí",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Huslenky",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Hutisko-Solanec",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Choryně",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Jablůnka",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Janová",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Jarcová",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Karolinka",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Kateřinice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Kelč",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Kladeruby",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Krhová",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Kunovice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Lešná",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Lhota u Vsetína",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Loučka",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Malá Bystřice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Mikulůvka",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Nový Hrozenkov",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Oznice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Podolí",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Police",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Poličná",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Prostřední Bečva",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Pržno",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Ratiboř",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Rožnov pod Radhoštěm",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Růžďka",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Střítež nad Bečvou",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Ústí",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Valašská Bystřice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Valašská Senice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Valašské Meziříčí",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Velká Lhota",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Velké Karlovice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Vidče",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Vigantice",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Vsetín",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Zašová",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Zděchov",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Zubří",
+        "obvod": 77,
+        "obvodName": "Vsetín"
+    },
+    {
+        "obec": "Správní celek",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Blatnice pod Svatým Antonínkem",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Blatnička",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Boršice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Boršice u Blatnice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Břestek",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Březová",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Buchlovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Dolní Němčí",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Hluk",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Horní Němčí",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Hostějov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Hroznová Lhota",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Hrubá Vrbka",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Huštěnovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Jalubí",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Javorník",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Kněžpole",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Korytná",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Kostelany nad Moravou",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Kozojídky",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Kunovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Kuželov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Lipov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Louka",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Malá Vrbka",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Medlovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Mistřice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Modrá",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Moravský Písek",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Nedakonice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Nivnice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Nová Lhota",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Ořechov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Ostrožská Lhota",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Ostrožská Nová Ves",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Osvětimany",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Podolí",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Polešovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Popovice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Salaš",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Slavkov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Staré Hutě",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Staré Město",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Strání",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Stříbrnice",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Stupava",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Suchá Loz",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Suchov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Tasov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Tučapy",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Tupesy",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Uherské Hradiště",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Uherský Ostroh",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Újezdec",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Vážany",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Velehrad",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Veletiny",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Velká nad Veličkou",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Veselí nad Moravou",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Vlčnov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Zlechov",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    },
+    {
+        "obec": "Žeraviny",
+        "obvod": 81,
+        "obvodName": "Uherské Hradiště"
+    }
+]
