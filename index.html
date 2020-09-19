@@ -33,7 +33,7 @@
                 <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier"
                     style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none" />
                 <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
-                <div id="additional-wrap">
+                <div id="additional-wrap" style="visibility: hidden">
                     <button id="more-elections" onclick="showFutureElections()">
                         <div class="rolling-background"></div>
                         <div id="me-inner">Zobrazit budoucí volby<i class="material-icons">chevron_right</i></div>
@@ -103,14 +103,15 @@
                 </div>
             </section>
             <section class="email-gather-wrap">
+                <p id="election-info-title">Chcete dostávat informace o budoucích volbách?</p>
                 <div class="email-input text-input">
                     <input id="email-input" type="text" name="email" placeholder="email@domain.com">
-                    <button onclick="submitEmail()" class="email-input-button input-button">Subscribe</button>
+                    <button onclick="submitEmail()" class="email-input-button input-button">Odebírat<i class="material-icons">chevron_right</i></button>
                 </div>
                 <p id="email-result"></p>
             </section>
             <footer>
-                <p>© 2020 by LoskotCorp - All Rights Reserved</p>
+                <p>© 2020 by jmenobytochtelouz</p>
             </footer>
             <!-- <section class="future-elections-wrap">
                     <p>Future election</p>
