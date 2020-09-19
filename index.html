@@ -4,6 +4,7 @@
 <head>
     <title>KdyVolit</title>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" />
     <link
         href="https://fonts.googleapis.com/css2?family=Material+Icons&family=Anaheim&family=Asap:wght@700&family=Rubik:wght@300;400;600&family=Lora:wght@500;700&display=swap"
@@ -52,39 +53,45 @@
                     <section id="election-info">
                         <p id="election-info-title">Volební místnosti se otevírají za</p>
                         <div id="election-info-time-wrap">
-                            <div class="election-info-time-number-wrap">
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="big-day-old">0</p>
-                                    <p class="election-info-time-number" id="big-day-current">0</p>
+                            <div class="eit-inner">
+                                <div class="election-info-time-number-wrap">
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="big-day-old">0</p>
+                                        <p class="election-info-time-number" id="big-day-current">0</p>
+                                    </div>
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="little-day-old">0</p>
+                                        <p class="election-info-time-number" id="little-day-current">0</p>
+                                    </div>
                                 </div>
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="little-day-old">0</p>
-                                    <p class="election-info-time-number" id="little-day-current">0</p>
-                                </div>
+                                <p class="election-info-time-text">dní</p>
                             </div>
-                            <p class="election-info-time-text">dní</p>
-                            <div class="election-info-time-number-wrap">
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="big-hour-old">0</p>
-                                    <p class="election-info-time-number" id="big-hour-current">0</p>
+                            <div class="eit-inner">
+                                <div class="election-info-time-number-wrap">
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="big-hour-old">0</p>
+                                        <p class="election-info-time-number" id="big-hour-current">0</p>
+                                    </div>
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="little-hour-old">0</p>
+                                        <p class="election-info-time-number" id="little-hour-current">0</p>
+                                    </div>
                                 </div>
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="little-hour-old">0</p>
-                                    <p class="election-info-time-number" id="little-hour-current">0</p>
-                                </div>
+                                <p class="election-info-time-text">hodin</p>
                             </div>
-                            <p class="election-info-time-text">hodin</p>
-                            <div class="election-info-time-number-wrap">
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="big-minute-old">0</p>
-                                    <p class="election-info-time-number" id="big-minute-current">0</p>
+                            <div class="eit-inner">
+                                <div class="election-info-time-number-wrap">
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="big-minute-old">0</p>
+                                        <p class="election-info-time-number" id="big-minute-current">0</p>
+                                    </div>
+                                    <div class="election-info-time-number-wheel">
+                                        <p class="election-info-time-number" id="little-minute-old">0</p>
+                                        <p class="election-info-time-number" id="little-minute-current">0</p>
+                                    </div>
                                 </div>
-                                <div class="election-info-time-number-wheel">
-                                    <p class="election-info-time-number" id="little-minute-old">0</p>
-                                    <p class="election-info-time-number" id="little-minute-current">0</p>
-                                </div>
+                                <p class="election-info-time-text">minut</p>
                             </div>
-                            <p class="election-info-time-text">minut</p>
                         </div>
                         <p id="election-info-type">pro <b>---</b></p>
                         <div id="region-list">
@@ -110,9 +117,6 @@
                 </div>
                 <p id="email-result"></p>
             </section>
-            <footer>
-                <p>© 2020 by jmenobytochtelouz</p>
-            </footer>
             <!-- <section class="future-elections-wrap">
                     <p>Future election</p>
                     <p>Future election</p>
@@ -123,6 +127,9 @@
                 </section> -->
 
         </main>
+        <footer>
+            <p>© 2020 by jmenobytochtelouz</p>
+        </footer>
     </div>
     <script src="elections.js"></script>
     <script src="animation.js"></script>
