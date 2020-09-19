@@ -156,7 +156,6 @@ footer > p {
     flex-direction: column;
     align-items: center;
     backface-visibility: hidden;
-    transform: rotate3d(0, 1, 0, 0deg);
     transition: transform 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 #election-info-inner {
@@ -273,6 +272,7 @@ footer > p {
 }
 #region-list > p {
     margin: 0px;
+    text-align: center;
 }
 #region-list > button {
     background-color: transparent;
@@ -286,14 +286,14 @@ footer > p {
     margin-top: 8px;
     cursor: pointer;
 }
-#region-list > button > span {
+#region-list > button > p {
     text-decoration: underline;
+    margin: 0px;
 }
 
 .future-elections-wrap {
     backface-visibility: hidden;
     transition: transform 1s cubic-bezier(0.19, 1, 0.22, 1);
-    transform: rotate3d(0, 1, 0, 180deg);
     transform-origin: center;
     width: 100%;
     height: 100%;
