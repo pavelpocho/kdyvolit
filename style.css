@@ -159,8 +159,15 @@ footer > p {
     transition: transform 1s cubic-bezier(0.19, 1, 0.22, 1);
 }
 #election-info-inner {
-    /* border-radius: 36px; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     background-color: var(--bg-light-gray);
+    margin-bottom: 200px;
+    width: 100%;
+}
+#election-info {
+    /* border-radius: 36px; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -345,23 +352,42 @@ footer > p {
 }
 
 .input-button {
-    margin-bottom: 2em;
-    font-size: 20px;
+    font-size: 16px;
     padding: 0.5em 1em;
-    background-color: var(--title-green);
-    color: white;
-    border: none;   
+    background-color: transparent;
+    color: var(--title-off-black);
+    border: none;
+    display: flex;
+    justify-content: center;
+    box-sizing: content-box;
+    margin-right: 6px;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.input-button > i {
+    margin-left: 6px;
+    font-size: 18px !important;
 }
 
 .text-input {
     width: 30vw;
-    margin: 2em;
+    min-width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.5em 2em;
+    background-color: white;
+    border-radius: 8px;
+    position: relative;
 }
 
 .text-input > input {
     width: calc(100% - 20px);
-    font-size: 20px;
-    padding: 0.5em;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+    padding: 0.6em 1em;
 }
 
 .autocomplete-items::-webkit-scrollbar {
@@ -380,7 +406,7 @@ footer > p {
 
 .autocomplete-items {
     width: 30vw;
-    position: relative;
+    position: absolute;
     border: 1px solid var(--off-white);
     border-bottom: none;
     border-top: none;

@@ -49,61 +49,64 @@
                     <p id="quote-author"> &mdash; Václav Havel</p>
                 </section>
                 <div id="election-info-inner">
-                    <p id="election-info-title">Volební místnosti se otevírají za</p>
-                    <div id="election-info-time-wrap">
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-day-old">0</p>
-                                <p class="election-info-time-number" id="big-day-current">0</p>
+                    <section id="election-info">
+                        <p id="election-info-title">Volební místnosti se otevírají za</p>
+                        <div id="election-info-time-wrap">
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-day-old">0</p>
+                                    <p class="election-info-time-number" id="big-day-current">0</p>
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-day-old">0</p>
+                                    <p class="election-info-time-number" id="little-day-current">0</p>
+                                </div>
                             </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-day-old">0</p>
-                                <p class="election-info-time-number" id="little-day-current">0</p>
+                            <p class="election-info-time-text">dní</p>
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-hour-old">0</p>
+                                    <p class="election-info-time-number" id="big-hour-current">0</p>
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-hour-old">0</p>
+                                    <p class="election-info-time-number" id="little-hour-current">0</p>
+                                </div>
                             </div>
+                            <p class="election-info-time-text">hodin</p>
+                            <div class="election-info-time-number-wrap">
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="big-minute-old">0</p>
+                                    <p class="election-info-time-number" id="big-minute-current">0</p>
+                                </div>
+                                <div class="election-info-time-number-wheel">
+                                    <p class="election-info-time-number" id="little-minute-old">0</p>
+                                    <p class="election-info-time-number" id="little-minute-current">0</p>
+                                </div>
+                            </div>
+                            <p class="election-info-time-text">minut</p>
                         </div>
-                        <p class="election-info-time-text">dní</p>
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-hour-old">0</p>
-                                <p class="election-info-time-number" id="big-hour-current">0</p>
-                            </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-hour-old">0</p>
-                                <p class="election-info-time-number" id="little-hour-current">0</p>
-                            </div>
+                        <p id="election-info-type">pro <b>---</b></p>
+                        <div id="region-list">
+                            <p id="region-list-text"></p>
+                            <button id="region-expand-button" onclick="openAllRegions()"><p>Zobrazit všechny obvody</p></button>
                         </div>
-                        <p class="election-info-time-text">hodin</p>
-                        <div class="election-info-time-number-wrap">
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="big-minute-old">0</p>
-                                <p class="election-info-time-number" id="big-minute-current">0</p>
-                            </div>
-                            <div class="election-info-time-number-wheel">
-                                <p class="election-info-time-number" id="little-minute-old">0</p>
-                                <p class="election-info-time-number" id="little-minute-current">0</p>
-                            </div>
+                    </section>
+                    <section class="obec-input-wrap">
+                        <p id="election-info-title">Týkají se Vás tyto volby?</p>
+                        <div class="autocomplete obec-input text-input">
+                            <input id="myInput" type="text" name="obec" placeholder="Název obce">
+                            <button onclick="submitObec()" class="obec-input-button input-button">Vyhledat<i class="material-icons">chevron_right</i></button>
                         </div>
-                        <p class="election-info-time-text">minut</p>
-                    </div>
-                    <p id="election-info-type">pro <b>---</b></p>
-                    <div id="region-list">
-                        <p id="region-list-text"></p>
-                        <button id="region-expand-button" onclick="openAllRegions()"><p>Zobrazit všechny obvody</p></button>
-                    </div>
+                        <p id="obec-result"></p>
+                    </section>
                 </div>
-            </section>
-            <section class="obec-input-wrap">
-                <div class="autocomplete obec-input text-input">
-                    <input id="myInput" type="text" name="obec" placeholder="Název obce">
-                </div>
-                <button onclick="submitObec()" class="obec-input-button input-button">Vyhledat</button>
-                <p id="obec-result"></p>
             </section>
             <section class="email-gather-wrap">
                 <div class="email-input text-input">
                     <input id="email-input" type="text" name="email" placeholder="email@domain.com">
+                    <button onclick="submitEmail()" class="email-input-button input-button">Subscribe</button>
                 </div>
-                <button onclick="submitEmail()" class="email-input-button input-button">Subscribe</button>
                 <p id="email-result"></p>
             </section>
             <footer>
