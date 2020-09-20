@@ -113,10 +113,8 @@ const submitEmail = () => {
     let p = document.getElementById('email-result')
 
     let obec = document.getElementById('myInput').value;
-    if (obec) {
-        let region = listOfTownsAndRegions.find(item => item.obec == obec);
-        let volby = elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se');
-    }
+    let region = listOfTownsAndRegions.find(item => item.obec == obec);
+    let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : null;
 
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
