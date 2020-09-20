@@ -83,14 +83,10 @@ const submitObec = () => {
             `<li>${translateTypes[el.type]} ${el.dates[0].from}</li>`
         })
         let bool = getUpcomingElection(elections).regions.includes(region.obvodName);
-        p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool ? 'ne': ''}týkají. ${string}`;
+        p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool ? 'ne' : ''}týkají. ${string}`;
         p.style.color = 'var(--title-off-black)';
 
     }
-}
-
-const getElectionsForRegion = (region) => {
-    elections.filter
 }
 
 let listOfTownsAndRegions;
@@ -115,12 +111,22 @@ window.onload = function () {
 const submitEmail = () => {
     let email = document.getElementById('email-input').value;
     let p = document.getElementById('email-result')
+
+    let obec = document.getElementById('myInput').value;
+    if (obec) {
+        let region = listOfTownsAndRegions.find(item => item.obec == obec);
+        let volby = elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se');
+    }
+
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
         p.innerHTML = "Neplatný email"
         return
     } else {
-
+        console.log('Submiting mail', email)
+        firebase.functions().httpsCallable('addEmail')({ email: email, elections: volby }).then(res => {
+            console.log(res.data);
+        });
     }
 }
 // var i = 8;
