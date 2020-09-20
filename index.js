@@ -120,7 +120,7 @@ const submitEmail = () => {
 
     let obec = document.getElementById('myInput').value;
     let region = listOfTownsAndRegions.find(item => item.obec == obec);
-    let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : null;
+    let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : elections;
 
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
