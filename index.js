@@ -84,7 +84,7 @@ const submitObec = () => {
         })
         let bool = getUpcomingElection(elections).regions.includes(region.obvodName);
         p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool ? 'ne' : ''}týkají. ${string}`;
-        p.style.color = 'var(--title-off-black)';
+        p.style.color = 'black';
 
     }
 }
