@@ -51,17 +51,17 @@ function getUpcomingElection(elections) {
 }
 
 const openAllRegions = () => {
-    let regions = document.getElementById("region-list-text").getAttribute('data-regions')
+    let regions = document.getElementById("region-list-text").getAttribute('data-regions');
     document.getElementById("region-list-text").innerHTML = regions + '.';
     document.getElementById("region-expand-button").onclick = closeAllRegions;
-    document.getElementById("region-expand-button").innerHTML = 'Zobrazit méně obvodů';
+    document.getElementById("region-expand-button").querySelector("p").innerHTML = 'Zobrazit méně obvodů';
 }
 
 const closeAllRegions = () => {
     let regions = document.getElementById("region-list-text").getAttribute('data-regions').split(", ");
     document.getElementById("region-list-text").innerHTML = `${regions.slice(0, 3).join(", ")}, + ${(regions.length - 3)}  dalších`;
     document.getElementById("region-expand-button").onclick = openAllRegions;
-    document.getElementById("region-expand-button").innerHTML = 'Zobrazit všechny obvody';
+    document.getElementById("region-expand-button").querySelector("p").innerHTML = 'Zobrazit všechny obvody';
 }
 
 const translateTypes = {
