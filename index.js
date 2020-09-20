@@ -121,7 +121,7 @@ const submitEmail = () => {
     let obec = document.getElementById('myInput').value;
     let region = listOfTownsAndRegions.find(item => item.obec == obec);
     let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : elections;
-
+    volby = volby.map(election => election.code)
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
         p.innerHTML = invalidEmailQuote;
@@ -131,7 +131,7 @@ const submitEmail = () => {
         p.style.color = 'var(--title-off-black)';
         p.innerHTML = loadingQuote;
         firebase.functions().httpsCallable('addEmail')({ email: email, elections: volby }).then(res => {
-            console.log(res.data);
+            // console.log(res.data);
             if (res.data.data.error) {
                 p.style.color = 'var(--warning-red)'
                 p.innerHTML = res.data.errorCode == 1 ? invalidEmailQuote : emailAlreadyExistsQuote;
