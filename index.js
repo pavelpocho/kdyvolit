@@ -108,6 +108,12 @@ window.onload = function () {
     RippleManager.setUp();
 }
 
+
+const emailAlreadyExistsQuote = "Zadaná emailová adresa je již zaregistrovaná. Pokud se chcete odhlásit od upozornění, můžete si trhnout nohou.";
+const invalidEmailQuote = "Zadaná adresa není platná. Zadejte prosím platnou emailovou adresu."
+const otherErrorQuote = "Neočekávaná chyba. Zkuste to prosím znovu.";
+const successQuote = "Úspěšně jste se přihlásili k odběru";
+const loadingQuote = "Čekejte prosím ...";
 const submitEmail = () => {
     let email = document.getElementById('email-input').value;
     let p = document.getElementById('email-result')
@@ -118,12 +124,24 @@ const submitEmail = () => {
 
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
-        p.innerHTML = "Neplatný email"
+        p.innerHTML = invalidEmailQuote;
         return
     } else {
         console.log('Submiting mail', email)
+        p.style.color = 'var(--title-off-black)';
+        p.innerHTML = loadingQuote;
         firebase.functions().httpsCallable('addEmail')({ email: email, elections: volby }).then(res => {
             console.log(res.data);
+            if (res.data.data.error) {
+                p.style.color = 'var(--warning-red)'
+                p.innerHTML = res.data.errorCode == 1 ? invalidEmailQuote : emailAlreadyExistsQuote;
+            } else {
+                p.style.color = 'var(--title-off-black)';
+                p.innerHTML = successQuote;
+            }
+        }).catch(err => {
+            p.style.color = 'var(--warning-red)'
+            p.innerHTML = otherErrorQuote;
         });
     }
 }
