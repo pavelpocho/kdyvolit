@@ -109,7 +109,7 @@ window.onload = function () {
 }
 
 
-const emailAlreadyExistsQuote = "Zadaná emailová adresa je již zaregistrovaná. Pokud se chcete odhlásit od upozornění, můžete si trhnout nohou.";
+const emailAlreadyExistsQuote = 'Zadaná emailová adresa je již zaregistrovaná. Pokud se chcete odhlásit od upozornění, klikněte <a href="https://kdyvolit.cz/unsubscribe">zde</a>.';
 const invalidEmailQuote = "Zadaná adresa není platná. Zadejte prosím platnou emailovou adresu."
 const otherErrorQuote = "Neočekávaná chyba. Zkuste to prosím znovu.";
 const successQuote = "Úspěšně jste se přihlásili k odběru";
