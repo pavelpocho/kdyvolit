@@ -108,7 +108,7 @@ window.onload = function () {
 }
 
 
-const emailAlreadyExistsQuote = "Zadaná emailová adresa je již zaregistrovaná. Pokud se chcete odhlásit od upozornění, můžete si trhnout nohou.";
+const emailAlreadyExistsQuote = 'Zadaná emailová adresa je již zaregistrovaná. Pokud se chcete odhlásit od upozornění, klikněte <a href="https://kdyvolit.cz/unsubscribe">zde</a>.';
 const invalidEmailQuote = "Zadaná adresa není platná. Zadejte prosím platnou emailovou adresu."
 const otherErrorQuote = "Neočekávaná chyba. Zkuste to prosím znovu.";
 const successQuote = "Úspěšně jste se přihlásili k odběru";
@@ -120,7 +120,7 @@ const submitEmail = () => {
     let obec = document.getElementById('myInput').value;
     let region = listOfTownsAndRegions.find(item => item.obec == obec);
     let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : elections;
-
+    volby = volby.map(election => election.code)
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'
         p.innerHTML = invalidEmailQuote;
