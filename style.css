@@ -171,8 +171,6 @@ footer > p {
     flex-direction: column;
     /* background-color: var(--bg-light-gray); */
     
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
     background-image: url('./background-huge-blurred.jpg');
     background-position: center;
     background-repeat: no-repeat;

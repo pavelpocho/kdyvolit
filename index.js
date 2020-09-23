@@ -95,7 +95,6 @@ function start() {
     elections = data;
     const upcomingElection = getUpcomingElection(elections);
     listOfTownsAndRegions = JSON.parse(obvodySenat);
-    console.log(listOfTownsAndRegions[0])
     displayUpcomingElectionData(upcomingElection);
     autocomplete(document.getElementById('myInput'), listOfTownsAndRegions.map(obj => obj.obec));
 }
@@ -127,11 +126,9 @@ const submitEmail = () => {
         p.innerHTML = invalidEmailQuote;
         return
     } else {
-        console.log('Submiting mail', email)
         p.style.color = 'var(--title-off-black)';
         p.innerHTML = loadingQuote;
         firebase.functions().httpsCallable('addEmail')({ email: email, elections: volby }).then(res => {
-            console.log(res.data);
             if (res.data.data.error) {
                 p.style.color = 'var(--warning-red)'
                 p.innerHTML = res.data.errorCode == 1 ? invalidEmailQuote : emailAlreadyExistsQuote;
