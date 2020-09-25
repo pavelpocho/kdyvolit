@@ -5,7 +5,8 @@
     <title>KdyVolit</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style1.2.css" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
     <link
         href="https://fonts.googleapis.com/css2?family=Material+Icons&family=Anaheim&family=Asap:wght@700&family=Rubik:wght@300;400;600&family=Lora:wght@500;700&display=swap"
         rel="stylesheet">
@@ -95,14 +96,15 @@
                                 <p class="election-info-time-text">minut</p>
                             </div>
                         </div>
-                        <p id="election-info-type">pro <b>---</b></p>
+                        <p id="election-info-type2" class="election-info-type">pro <b>krajské volby</b></p>
+                        <p id="election-info-type" class="election-info-type">pro <b>---</b></p>
                         <div id="region-list">
                             <p id="region-list-text"></p>
                             <button id="region-expand-button" onclick="openAllRegions()"><p>Zobrazit všechny obvody</p></button>
                         </div>
                     </section>
                     <section class="obec-input-wrap">
-                        <p id="election-info-title">Týkají se Vás tyto volby?</p>
+                        <p id="election-info-title">Týkají se Vás tyto senátní volby?</p>
                         <div class="autocomplete obec-input text-input">
                             <input id="myInput" type="text" name="obec" placeholder="Název obce">
                             <button onclick="submitObec()" class="obec-input-button input-button">Vyhledat<i class="material-icons">chevron_right</i></button>
@@ -130,14 +132,14 @@
 
         </main>
         <footer>
-            <p>© 2020 by <a href="https://ko-fi.com/vloskot">Softwarové řeznictví</a></p>
+            <p>© 2020 by <a href="https://softwarovereznictvi.cz">Softwarové řeznictví</a></p>
         </footer>
     </div>
-    <script src="elections.js"></script>
-    <script src="animation.js"></script>
-    <script src="autocomplete.js"></script>
-    <script src="timeDisplay.js"></script>
-    <script src="obvodySenat.js"></script>
+    <script src="elections1.2.js"></script>
+    <script src="animation1.1.js"></script>
+    <script src="autocomplete1.1.js"></script>
+    <script src="timeDisplay1.2.js"></script>
+    <script src="obvodySenat1.2.js"></script>
 
     <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-analytics.js"></script>
@@ -157,7 +159,7 @@
         firebase.analytics();
     </script>
 
-    <script src="index.js"></script>
+    <script src="index1.2.js"></script>
 </body>
 
 </html>

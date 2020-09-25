@@ -32,7 +32,7 @@ function displayNumber(number, idSection) {
 function displayUpcomingElectionData(election) {
     var titleDiv = document.getElementById("election-info-title");
     var typeDiv = document.getElementById("election-info-type");
-    typeDiv.innerHTML = "pro";
+    typeDiv.innerHTML = "a pro";
     var bold = document.createElement("b");
     if (isMoreThanNow(election.dates[0].from)) {
         titleDiv.innerHTML = "Volební místnosti se otevírají za";

@@ -226,7 +226,7 @@ footer > p {
     display: flex;
     align-items: flex-end;
 }
-#election-info-type {
+.election-info-type {
     font-size: 30px;
     font-weight: normal;
     color: var(--title-off-black);

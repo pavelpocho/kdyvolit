@@ -78,11 +78,11 @@ const submitObec = () => {
         p.innerHTML = `Zadaná vesnice neexistuje.`;
         p.style.color = 'var(--warning-red)'
     } else {
-        let volby = elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se');
+        let volby = elections.filter(el => (el.type == 'se' && el.regionsWithNumbers.find(reg => reg.number == region.obvod)) || el.type != 'se');
         let string = volby.map(el => {
             `<li>${translateTypes[el.type]} ${el.dates[0].from}</li>`
         })
-        let bool = getUpcomingElection(elections).regions.includes(region.obvodName);
+        let bool = getUpcomingElection(elections).regionsWithNumbers.filter(reg => reg.number == region.obvod) > 0;
         p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool ? 'ne' : ''}týkají. ${string}`;
         p.style.color = 'black';
 
@@ -120,7 +120,7 @@ const submitEmail = () => {
 
     let obec = document.getElementById('myInput').value;
     let region = listOfTownsAndRegions.find(item => item.obec == obec);
-    let volby = obec ? elections.filter(el => (el.type == 'se' && el.regions.find(reg => reg == region)) || el.type != 'se') : elections;
+    let volby = obec ? elections.filter(el => (el.type == 'se' && el.regionsWithNumbers.find(reg => reg.number == region.obvod)) || el.type != 'se') : elections;
     volby = volby.map(election => election.code)
     if (!/[^@ \t\r\n]+@[^@ \t\r\n]+\.[^@ \t\r\n]+/.test(email)) {
         p.style.color = 'var(--warning-red)'

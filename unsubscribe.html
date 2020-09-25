@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="cs-cz" dir="ltr">
+
+<head>
+    <title>KdyVolit</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Material+Icons&family=Anaheim&family=Asap:wght@700&family=Rubik:wght@300;400;600&family=Lora:wght@500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="ripple/index.css" />
+    <script src="ripple/index.js"></script>
+</head>
+
+<body>
+    <div id="main">
+        <!-- <div id="dialog-wrap">
+                <div class="dialog" id="region-dialog">
+                    <div class="dialog-topbar">
+                        <p>Seznam volebních obvodů</p>
+                        <button onclick="closeAllRegions()"><i class="material-icons">clear</i></button>
+                    </div>
+                </div>
+            </div> -->
+        <header id="main-topbar">
+            <div id="main-topbar-inner">
+                <div id="main-title-wrap" onclick="copyMainTitle()">
+                    <p id="main-title-1">Kdy</p>
+                    <p id="main-title-2">V</p>
+                    <p id="main-title-3">olit</p>
+                    <p id="main-title-4">.cz</p>
+                </div>
+                <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier"
+                    style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none" />
+                <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
+                <div id="additional-wrap" style="visibility: hidden">
+                    <button id="more-elections" onclick="showFutureElections()">
+                        <div class="rolling-background"></div>
+                        <div id="me-inner">Zobrazit budoucí volby<i class="material-icons">chevron_right</i></div>
+                    </button>
+                </div>
+            </div>
+        </header>
+        <main id="main-body">
+            
+            <section class="email-gather-wrap">
+                <p id="election-info-title">Zrušit odběr upozornění na volby</p>
+                <div class="email-input text-input">
+                    <input id="email-input" type="text" name="email" placeholder="email@adresa.cz">
+                    <button onclick="submitEmail()" class="email-input-button input-button">Zrušit odběr<i class="material-icons">chevron_right</i></button>
+                </div>
+                <p id="email-result">Pokud už nechcete být dále upozorňováni na nadcházející volby, zadejte zde svou emailovou adresu a my Vás přestaneme obtěžovat</p>
+            </section>
+            <!-- <section class="future-elections-wrap">
+                    <p>Future election</p>
+                    <p>Future election</p>
+                    <p>Future election</p>
+                    <p>Future election</p>
+                    <p>Future election</p>
+                    <p>Future election</p>
+                </section> -->
+
+        </main>
+        <footer>
+            <p>© 2020 by <a href="https://softwarovereznictvi.cz">Softwarové řeznictví</a></p>
+        </footer>
+    </div>
+    <script src="unsubscribe.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-functions.js"></script>
+    <script>
+        var firebaseConfig = {
+            apiKey: "AIzaSyDTzC0-bl1FhPHDnxqtG9cNbLIRxnRrIlo",
+            authDomain: "kdyvolit.firebaseapp.com",
+            databaseURL: "https://kdyvolit.firebaseio.com",
+            projectId: "kdyvolit",
+            storageBucket: "kdyvolit.appspot.com",
+            messagingSenderId: "733488757530",
+            appId: "1:733488757530:web:9ff5b9d200b9b6f9a18aa3",
+            measurementId: "G-6MV15Z6JC8"
+        };
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
