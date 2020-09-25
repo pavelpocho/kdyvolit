@@ -25,33 +25,37 @@
                 </div>
             </div> -->
         <header id="main-topbar">
-            <div id="main-topbar-inner">
-                <div id="main-title-wrap" onclick="copyMainTitle()">
-                    <p id="main-title-1">Kdy</p>
-                    <p id="main-title-2">V</p>
-                    <p id="main-title-3">olit</p>
-                    <p id="main-title-4">.cz</p>
+            <a href="https://kdyvolit.cz">
+                <div id="main-topbar-inner">
+                    <div id="main-title-wrap">
+                        <p id="main-title-1">Kdy</p>
+                        <p id="main-title-2">V</p>
+                        <p id="main-title-3">olit</p>
+                        <p id="main-title-4">.cz</p>
+                    </div>
+                    <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier"
+                        style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none" />
+                    <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
+                    <div id="additional-wrap" style="visibility: hidden">
+                        <button id="more-elections" onclick="showFutureElections()">
+                            <div class="rolling-background"></div>
+                            <div id="me-inner">Zobrazit budoucí volby<i class="material-icons">chevron_right</i></div>
+                        </button>
+                    </div>
                 </div>
-                <input type="text" value="https://www.kdyvolit.cz/" id="main-title-copier"
-                    style="position: fixed; top: -1px; left: -1; height: 1px; width: 1px; padding: 0px; border: none" />
-                <p id="main-title-copy">Kliknutím zkopírujte adresu</p>
-                <div id="additional-wrap" style="visibility: hidden">
-                    <button id="more-elections" onclick="showFutureElections()">
-                        <div class="rolling-background"></div>
-                        <div id="me-inner">Zobrazit budoucí volby<i class="material-icons">chevron_right</i></div>
-                    </button>
-                </div>
-            </div>
+            </a>
         </header>
         <main id="main-body">
-            
+
             <section class="email-gather-wrap">
                 <p id="election-info-title">Zrušit odběr upozornění na volby</p>
                 <div class="email-input text-input">
                     <input id="email-input" type="text" name="email" placeholder="email@adresa.cz">
-                    <button onclick="submitEmail()" class="email-input-button input-button">Zrušit odběr<i class="material-icons">chevron_right</i></button>
+                    <button onclick="submitEmail()" class="email-input-button input-button">Zrušit odběr<i
+                            class="material-icons">chevron_right</i></button>
                 </div>
-                <p id="email-result">Pokud už nechcete být dále upozorňováni na nadcházející volby, zadejte zde svou emailovou adresu a my Vás přestaneme obtěžovat</p>
+                <p id="email-result">Pokud už nechcete být dále upozorňováni na nadcházející volby, zadejte zde svou
+                    emailovou adresu a my Vás přestaneme obtěžovat</p>
             </section>
             <!-- <section class="future-elections-wrap">
                     <p>Future election</p>
@@ -67,7 +71,8 @@
             <p>© 2020 by <a href="https://softwarovereznictvi.cz">Softwarové řeznictví</a></p>
         </footer>
     </div>
-    <script src="unsubscribe.js"></script>
+    <script src="unsubscribe1.3.js"></script>
+    <script src="animation1.1.js"></script>
 
     <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-analytics.js"></script>

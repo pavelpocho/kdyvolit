@@ -18,11 +18,11 @@ const submitMail = () => {
         console.log('Submiting mail', email)
         p.style.color = 'var(--title-off-black)';
         p.innerHTML = loadingQuote;
-        firebase.functions().httpsCallable('addEmail')({ email: email }).then(res => {
+        firebase.functions().httpsCallable('removeEmail')({ email: email }).then(res => {
             // console.log(res.data);
             if (res.data.data.error) {
                 p.style.color = 'var(--warning-red)'
-                p.innerHTML = invalidEmailQuote;
+                p.innerHTML = res.data.data.errorCode == 1 ? invalidEmailQuote : otherErrorQuote;
             } else {
                 p.style.color = 'var(--title-off-black)';
                 p.innerHTML = successQuote;
@@ -33,3 +33,11 @@ const submitMail = () => {
         });
     }
 }
+
+window.onload = function () {
+    // console.log("onLoad")
+    setupStyleAnimations();
+    document.getElementById("main").style.opacity = "1";
+    RippleManager.setUp();
+}
+
