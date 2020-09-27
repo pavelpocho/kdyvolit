@@ -79,10 +79,11 @@ const submitObec = () => {
         p.style.color = 'var(--warning-red)'
     } else {
         let volby = elections.filter(el => (el.type == 'se' && el.regionsWithNumbers.find(reg => reg.number == region.obvod)) || el.type != 'se');
+        console.log(volby, region, elections)
         let string = volby.map(el => {
             `<li>${translateTypes[el.type]} ${el.dates[0].from}</li>`
         })
-        let bool = getUpcomingElection(elections).regionsWithNumbers.filter(reg => reg.number == region.obvod) > 0;
+        let bool = getUpcomingElection(elections).regionsWithNumbers.find(reg => reg.number == region.obvod);
         p.innerHTML = `Obec ${obec} se nachází ve volebním obvodě ${region.obvodName}. Nadcházející senátní volby se Vás ${!bool ? 'ne' : ''}týkají. ${string}`;
         p.style.color = 'black';
 
