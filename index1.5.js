@@ -42,7 +42,7 @@ function showNextElections() {
 function getUpcomingElection(elections) {
     var upcomingElection = null;
     for (var i = 0; i < elections.length; i++) {
-        if (isMoreThanNow(elections[i].dates[1].to)) {
+        if (isMoreThanNow(elections[i].dates[elections[i].dates.length-1].to)) {
             upcomingElection = elections[i];
             break;
         }
